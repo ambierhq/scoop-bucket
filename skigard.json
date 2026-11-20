@@ -1,22 +1,22 @@
 {
-    "version": "0.1.2",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ambierhq/skigard/releases/download/v0.1.2/skigard_0.1.2_windows_amd64.zip",
+            "url": "https://github.com/ambierhq/skigard/releases/download/v0.2.0/skigard_0.2.0_windows_amd64.zip",
             "bin": [
                 "skigard.exe"
             ],
-            "hash": "8fc5bd6965e8c0cfe2cbd2af27031de14e8a35467e715d32395d00de0a9386d3"
+            "hash": "9c20f7e66f1637158ae5a2668fa4b688f14374da49240c2b8ecf3fda0e15460d"
         },
         "arm64": {
-            "url": "https://github.com/ambierhq/skigard/releases/download/v0.1.2/skigard_0.1.2_windows_arm64.zip",
+            "url": "https://github.com/ambierhq/skigard/releases/download/v0.2.0/skigard_0.2.0_windows_arm64.zip",
             "bin": [
                 "skigard.exe"
             ],
-            "hash": "2d93d825631f34a7cf821079f5b8fbb1eed6d53dc09136e09a6034c8f47c6e81"
+            "hash": "b6dde816a8dc99eca0457bdfd9fe464f045d2cbc76250d81e4ad4113fd2f35f7"
         }
     },
     "homepage": "https://github.com/ambierhq/skigard",
     "license": "MIT",
-    "description": "Lockfile and review gate for agent skills"
+    "description": "A safer way to manage agent skills"
 }
