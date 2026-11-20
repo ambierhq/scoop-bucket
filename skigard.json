@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ambierhq/skigard/releases/download/v0.1.1/skigard_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/ambierhq/skigard/releases/download/v0.1.2/skigard_0.1.2_windows_amd64.zip",
             "bin": [
                 "skigard.exe"
             ],
-            "hash": "291c472dffd7049ad1a9eb90d3c9ab1633a8691b8a69ff0693fc24b65adf298c"
+            "hash": "8fc5bd6965e8c0cfe2cbd2af27031de14e8a35467e715d32395d00de0a9386d3"
         },
         "arm64": {
-            "url": "https://github.com/ambierhq/skigard/releases/download/v0.1.1/skigard_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/ambierhq/skigard/releases/download/v0.1.2/skigard_0.1.2_windows_arm64.zip",
             "bin": [
                 "skigard.exe"
             ],
-            "hash": "edb3047c5bcb5f6210289820ce1c4ac0062760358fbfb9f827759b577992fac3"
+            "hash": "2d93d825631f34a7cf821079f5b8fbb1eed6d53dc09136e09a6034c8f47c6e81"
         }
     },
     "homepage": "https://github.com/ambierhq/skigard",
